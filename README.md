@@ -3,7 +3,7 @@
 ## Our entire code is built based on nnUNet, and you can follow the nnUNet instructions exactly.
 
 
-Install nnU-Net depending on your use case:
+Install nnSAM depending on your use case:
 
 ```bash
 conda create -n nnsam python=3.9
