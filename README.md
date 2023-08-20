@@ -1,4 +1,4 @@
-# Welcome to the new nnSAM!
+# nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance
 
 ## Our entire code is built based on nnUNet, and you can follow the nnUNet instructions exactly.
 
