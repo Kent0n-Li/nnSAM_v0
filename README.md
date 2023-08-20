@@ -18,7 +18,6 @@ pip install git+https://github.com/Kent0n-Li/nnSAM.git
 
 ## How to get started?
 Read these:
-- [Installation instructions](documentation/installation_instructions.md)
 - [Dataset conversion](documentation/dataset_format.md)
 - [Usage instructions](documentation/how_to_use_nnunet.md)
 
