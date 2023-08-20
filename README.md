@@ -1,4 +1,6 @@
-# Welcome to the new nnU-Net!
+# Welcome to the new nnSAM!
+
+## Our entire code is built based on nnUNet, and you can follow the nnUNet instructions exactly.
 
 Click [here](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) if you were looking for the old one instead.
 
